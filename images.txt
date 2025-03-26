@@ -1,1 +1,1 @@
-nginx:1.25
+jumpserver:1.0.0
